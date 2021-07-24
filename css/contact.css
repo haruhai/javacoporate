@@ -1,0 +1,36 @@
+input {
+  width: 1000px;
+  height: 25px;
+}
+.contact-main p {
+  margin-top: 20px;
+  font-weight: bold;
+}
+textarea {
+  width: 1000px;
+}
+.mast {
+  color: red;
+}
+.form-btn {
+  color: white;
+  background-color: black;
+  border: none;
+  width: 300px;
+  height: 40px;
+  font-weight: bold;
+  display: block;
+  margin: 20px auto 0;
+}
+.contact-main {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+.form-last {
+  text-align: center;
+  margin-top: 20px;
+}
+.footer {
+  margin-top: 100px;
+}

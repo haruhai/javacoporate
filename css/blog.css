@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.blog-top {
+  height: 300px;
+  background: url(../img/mv.png) no-repeat center/cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.top-title {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+}
+.wrapper2 {
+  width: 1065px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto;
+}
+.wrapper {
+  margin-top: 100px;
+}
