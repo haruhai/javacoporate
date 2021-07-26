@@ -15,11 +15,17 @@
   color: white;
 }
 .wrapper2 {
-  width: 1065px;
+  width: 1095px;
   display: flex;
   justify-content: space-between;
   margin: 20px auto;
 }
-.wrapper {
+.wrapper-first {
   margin-top: 100px;
+}
+.wrapper-first {
+  width: 1095px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto;
 }

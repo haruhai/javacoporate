@@ -39,3 +39,9 @@
 .main {
   margin: 50px;
 }
+@media screen and (max-width: 768px) {
+  .main-box {
+    width: 100%;
+    margin-right: 0;
+  }
+}

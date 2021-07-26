@@ -15,20 +15,32 @@
   color: white;
 }
 .news-list {
-  width: 1000px;
+  width: 900px;
 }
 .item1 {
   border: 1px solid black;
+  padding: 10px;
 }
 .item2 {
   border: 1px solid black;
+  padding: 10px;
+  margin-top: 10px;
 }
 .item3 {
   border: 1px solid black;
+  padding: 10px;
+  margin-top: 10px;
 }
 .news {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 70px;
+}
+.item-sub {
+  padding-left: 10px;
+  font-weight: bold;
+}
+.bottom-contact {
+  margin-top: 50px;
 }
