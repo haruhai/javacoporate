@@ -3,6 +3,7 @@
   padding: 0;
 }
 .service-top {
+  margin: 0 auto;
   height: 300px;
   background: url(../img/mv.png) no-repeat center/cover;
   display: flex;
@@ -15,33 +16,29 @@
   color: white;
 }
 .main {
-  width: 90;
+  margin: 50px auto;
+  width: 90%;
 }
 .main-box {
-  display: flex;
-  width: 1050px;
+  margin: 0 auto;
+  width: 73%;
   border-top: 1px solid black;
   padding: 20px 0 20px 0;
+}
+.main-box-img {
   margin: 0 auto;
 }
 .main img {
-  width: 300px;
+  margin: 0 auto;
+  width: 400px;
 }
 .main p {
   text-decoration: none;
 }
-.box-title {
-  padding-left: 40px;
-}
 .main-box:last-child {
   border-bottom: 1px solid black;
 }
-.main {
-  margin: 50px;
-}
-@media screen and (max-width: 768px) {
-  .main-box {
-    width: 100%;
-    margin-right: 0;
-  }
+.box-title {
+  margin: 0 auto;
+  width: 400px;
 }
