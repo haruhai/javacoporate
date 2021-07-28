@@ -21,7 +21,7 @@
 }
 .main-box {
   margin: 0 auto;
-  width: 73%;
+  width: 80%;
   border-top: 1px solid black;
   padding: 20px 0 20px 0;
 }
@@ -30,7 +30,7 @@
 }
 .main img {
   margin: 0 auto;
-  width: 400px;
+  width: 100%;
 }
 .main p {
   text-decoration: none;
@@ -40,5 +40,5 @@
 }
 .box-title {
   margin: 0 auto;
-  width: 400px;
+  width: 100%;
 }
